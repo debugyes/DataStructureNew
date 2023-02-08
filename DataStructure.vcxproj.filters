@@ -15,7 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="show_array.c">
+    <ClCompile Include="3.pointer_1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.pointer_2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.pointer_3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.pointer_array.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.ShowArray.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.pointer4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.struct.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
